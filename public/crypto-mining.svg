@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <style>
+    .mining-rig { fill: #2563eb }
+    .glow { fill: #60a5fa }
+    .circuit { stroke: #1e40af; fill: none }
+  </style>
+  <g class="mining-rig">
+    <rect x="200" y="200" width="400" height="200" rx="20"/>
+    <rect x="250" y="250" width="300" height="100" rx="10"/>
+  </g>
+  <g class="glow">
+    <circle cx="300" cy="300" r="20" opacity="0.6"/>
+    <circle cx="400" cy="300" r="20" opacity="0.6"/>
+    <circle cx="500" cy="300" r="20" opacity="0.6"/>
+  </g>
+  <g class="circuit">
+    <path d="M100,300 L200,300" stroke-width="4"/>
+    <path d="M600,300 L700,300" stroke-width="4"/>
+    <path d="M300,150 L300,250" stroke-width="4"/>
+    <path d="M500,150 L500,250" stroke-width="4"/>
+  </g>
+</svg>

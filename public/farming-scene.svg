@@ -1,0 +1,24 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Farming Scene SVG Content -->
+  <g>
+    <!-- Person 2 - Yield Farmer -->
+    <path d="M300,200 C300,150 350,150 350,200" stroke="#4B5563" fill="none"/>
+    <circle cx="325" cy="140" r="20" fill="#4B5563"/>
+    <rect x="280" y="200" width="90" height="120" rx="10" fill="#6B7280"/>
+    
+    <!-- Farming Interface -->
+    <rect x="400" y="150" width="150" height="120" rx="10" fill="#1F2937"/>
+    <g transform="translate(420,170)">
+      <!-- Charts and Graphs -->
+      <path d="M0,80 L30,40 L60,60 L90,20 L120,50" stroke="#10B981" strokeWidth="2" fill="none"/>
+      <path d="M0,70 L30,50 L60,30 L90,40 L120,10" stroke="#60A5FA" strokeWidth="2" fill="none"/>
+    </g>
+    
+    <!-- Yield Symbols -->
+    <g opacity="0.8">
+      <circle cx="450" cy="100" r="15" fill="#10B981"/>
+      <circle cx="490" cy="80" r="12" fill="#60A5FA"/>
+      <circle cx="530" cy="120" r="10" fill="#F59E0B"/>
+    </g>
+  </g>
+</svg>

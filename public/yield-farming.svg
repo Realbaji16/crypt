@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <style>
+    .coins { fill: #fbbf24 }
+    .plant { fill: #15803d }
+    .growth { fill: #22c55e }
+  </style>
+  <g class="plant">
+    <path d="M350,400 C350,300 450,300 450,400 L450,500 L350,500 Z"/>
+  </g>
+  <g class="growth">
+    <circle cx="400" cy="250" r="30"/>
+    <circle cx="350" cy="200" r="25"/>
+    <circle cx="450" cy="200" r="25"/>
+  </g>
+  <g class="coins">
+    <circle cx="300" cy="350" r="40"/>
+    <circle cx="500" cy="350" r="40"/>
+    <circle cx="400" cy="150" r="40"/>
+  </g>
+</svg>
